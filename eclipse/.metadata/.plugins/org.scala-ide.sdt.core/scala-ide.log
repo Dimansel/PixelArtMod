@@ -1,0 +1,32 @@
+2014-07-07 16:37:43,389 ERROR [Worker-3] - System.err - шўы 07, 2014 4:37:43 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-07 23:43:23,930 ERROR [Worker-3] - System.err - шўы 07, 2014 11:43:23 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-07 23:44:00,837 ERROR [pool-2-thread-4] - System.err - шўы 07, 2014 11:44:00 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: I/O exception (java.net.SocketException) caught when processing request: Connection reset
+2014-07-07 23:44:00,838 ERROR [pool-2-thread-4] - System.err - шўы 07, 2014 11:44:00 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: Retrying request
+2014-07-07 23:53:18,011 ERROR [Worker-4] - System.err - шўы 07, 2014 11:53:17 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-07 23:53:41,570 ERROR [pool-1-thread-3] - System.err - шўы 07, 2014 11:53:41 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: I/O exception (java.net.SocketException) caught when processing request: Connection reset
+2014-07-07 23:53:41,571 ERROR [pool-1-thread-3] - System.err - шўы 07, 2014 11:53:41 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: Retrying request
+2014-07-07 23:53:49,473 ERROR [ModalContext] - System.err - шўы 07, 2014 11:53:49 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: I/O exception (java.net.SocketException) caught when processing request: Connection reset
+2014-07-07 23:53:49,474 ERROR [ModalContext] - System.err - шўы 07, 2014 11:53:49 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: Retrying request
+2014-07-08 11:57:19,792 ERROR [Worker-0] - System.err - шўы 08, 2014 11:57:19 AM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-08 15:44:35,588 ERROR [Worker-0] - System.err - шўы 08, 2014 3:44:35 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-08 21:42:59,020 ERROR [Worker-0] - System.err - шўы 08, 2014 9:42:58 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-29 15:17:01,537 ERROR [Worker-2] - System.err - шўы 29, 2014 3:17:01 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-29 15:27:28,376 ERROR [Worker-1] - System.err - шўы 29, 2014 3:27:28 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-07-29 15:29:48,371 ERROR [Worker-3] - System.err - шўы 29, 2014 3:29:48 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2014-08-05 12:20:34,482 ERROR [Worker-0] - System.err - рту 05, 2014 12:20:34 PM java.util.prefs.WindowsPreferences <init>
+WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0x80000002. Windows RegCreateKeyEx(...) returned error code 5.

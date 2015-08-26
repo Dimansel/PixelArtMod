@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pixelart",
+  "name": "Pixel Art",
+  "description": "Mod for creating pixel arts",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dimansel"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

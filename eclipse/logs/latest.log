@@ -1,0 +1,61 @@
+[17:41:28] [main/INFO]: Setting user: Player203
+[17:41:29] [Client thread/INFO]: LWJGL Version: 2.9.0
+[17:41:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Pixel Art
+[17:41:35] [Sound Library Loader/INFO]: Sound engine started
+[17:41:36] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:41:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:41:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Pixel Art
+[17:41:37] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[17:41:37] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:41:38] [Sound Library Loader/INFO]: Sound engine started
+[17:41:39] [MCO Availability Checker #1/ERROR]: Couldn't connect to Realms
+[17:41:41] [Server thread/INFO]: Starting integrated minecraft server version 1.7.2
+[17:41:41] [Server thread/INFO]: Generating keypair
+[17:41:42] [Server thread/INFO]: Preparing start region for level 0
+[17:41:43] [Server thread/INFO]: Player203[local:E:6589618b] logged in with entity id 152 at (0.9922446084199766, 54.0, -833.0311253470201)
+[17:41:43] [Server thread/INFO]: Player203 joined the game
+[17:41:43] [Skin downloader: http://skins.minecraft.net/MinecraftSkins/Player203.png/ERROR]: Couldn't download http texture
+java.net.UnknownHostException: skins.minecraft.net
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[?:1.7.0_45]
+	at net.minecraft.client.renderer.ThreadDownloadImageData$1.run(ThreadDownloadImageData.java:87) [ThreadDownloadImageData$1.class:?]
+[17:41:43] [Skin downloader: http://skins.minecraft.net/MinecraftCloaks/Player203.png/ERROR]: Couldn't download http texture
+java.net.UnknownHostException: skins.minecraft.net
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.PlainSocketImpl.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.SocksSocketImpl.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.7.0_45]
+	at java.net.Socket.connect(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.NetworkClient.doConnect(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.openServer(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.<init>(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.http.HttpClient.New(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source) ~[?:1.7.0_45]
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source) ~[?:1.7.0_45]
+	at net.minecraft.client.renderer.ThreadDownloadImageData$1.run(ThreadDownloadImageData.java:87) [ThreadDownloadImageData$1.class:?]
+[17:43:08] [Server thread/INFO]: Saving and pausing game...
+[17:43:08] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[17:43:08] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[17:43:08] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[17:43:10] [Server thread/INFO]: Stopping server
+[17:43:10] [Server thread/INFO]: Saving players
+[17:43:10] [Server thread/INFO]: Saving worlds
+[17:43:10] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
+[17:43:10] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
+[17:43:10] [Server thread/INFO]: Saving chunks for level 'Test'/The End
+[17:43:11] [Client thread/INFO]: Stopping!
